@@ -1,0 +1,92 @@
+html {
+    background: black;
+}
+a[href] {
+    color:goldenrod;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 25px;
+    padding: 35px;
+    color: black;
+    border-top: 8px solid black;
+    background: lightslategray;
+}
+h1 {
+    color: goldenrod;
+    font-size: 2.5em;
+    margin: 0;
+    font-style: oblique;
+}
+h2 {
+    color: goldenrod;
+    font-style: oblique;
+}
+h3 {
+    color: navy;
+    font-style: italic;
+}
+h4 {
+    color: navy;
+    font-style: italic;
+    font-size: larger;
+}
+h5 {
+    color: navy;
+    font-style: italic;
+    font-size: larger;
+}
+p {
+    color: navy;
+    line-height: 1.5em;
+}
+ul {
+    color: navy;
+}
+img {
+    padding: 20px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#blog {
+    border-top: 1.5px dotted black;
+}
+.blog-post {
+    border-bottom: 1.2px dotted black;
+    padding: 2px;
+    margin: 10px;
+}
+a {
+    color: black;
+}
+p1 {
+    white-space: pre;
+    color: navy;
+}
+p2 {
+    white-space: pre;
+    color: navy;
+}
+p3 {
+    white-space: pre;
+    color: navy;
+}
+p4 {
+    white-space: pre;
+    color: navy;
+}
+p5 {
+    white-space: pre;
+    color: navy;
+}
+p6 {
+    white-space: pre;
+    color: navy;
+}
+p7 {
+    white-space: pre;
+    color: navy;
+}
+
